@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EhIQfWZRgjhTNNZgqxnXu0+LXXeZC0GJGzgx75d9v0g=",
+  "Source": "TaskBloomAPI",
+  "BasePath": "_content/TaskBloomAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
